@@ -42,7 +42,7 @@ const CreatorNote: React.FC = () => {
               Aight guys so this app is made so u can brainstorm ideas or make ur decisions better. This shit literally improves ur IQ.
             </p>
             <p className="text-amber-800">
-              This app is not made to store notes long term. Only to brainstorm and think which is obviously for the short term. This doesn't mean that data gets wiped when u restart the app.
+              This app is not made to store notes long term. Only to brainstorm and think which is obviously for the short term.
             </p>
             <p className="text-amber-800">
               Also I know that the logo of my app doesn't look like an eagle at all.
