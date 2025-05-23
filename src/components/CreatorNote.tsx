@@ -39,7 +39,7 @@ const CreatorNote: React.FC = () => {
           
           <div className="prose prose-amber max-w-none mb-8 text-left space-y-4">
             <p className="text-amber-800">
-              Aight guys so this app is made so u can brainstorm ideas or make ur decisions better. This shit literally improves ur IQ.
+              Aight guys so this app is made so u can brainstorm ideas or make ur decisions better. This shit literally improves your IQ (but only until u use this tool lol).
             </p>
             <p className="text-amber-800">
               This app is not made to store notes long term. Only to brainstorm and think which is obviously for the short term.
