@@ -47,6 +47,11 @@ const CreatorNote: React.FC = () => {
             <p className="text-amber-800">
               Also I know that the logo of my app doesn't look like an eagle at all.
             </p>
+            <p className="text-amber-800 mt-6 p-4 bg-amber-50 rounded-lg border-l-4 border-amber-400">
+              I am trying to buy a domain name but I don't want to ask my parents for money. Can you please send me some money on this PayPal so I can buy the domain name? I will replace this line with a success message when we hit the $15 goal.
+              <br/><br/>
+              <a href="https://www.paypal.me/ArbudaSingh" target="_blank" rel="noopener noreferrer" className="text-amber-600 hover:text-amber-800 font-medium underline">Donate via PayPal</a>
+            </p>
           </div>
           
           <button
