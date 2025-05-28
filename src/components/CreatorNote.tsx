@@ -51,6 +51,8 @@ const CreatorNote: React.FC = () => {
               I am trying to buy a domain name but I don't want to ask my parents for money. Can you please send me some money on this PayPal so I can buy the domain name? I will replace this line with a success message when we hit the $15 goal.
               <br/><br/>
               <a href="https://www.paypal.me/ArbudaSingh" target="_blank" rel="noopener noreferrer" className="text-amber-600 hover:text-amber-800 font-medium underline">Donate via PayPal</a>
+              <br/>
+              <span className="text-amber-700 text-sm">(This is my sister's PayPal account since I'm only 17 and can't have my own)</span>
             </p>
           </div>
           
